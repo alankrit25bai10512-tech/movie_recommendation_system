@@ -197,8 +197,3 @@ recommend('Batman Begins')
 7. Ricci, F., Rokach, L., & Shapira, B. (2015). *Recommender Systems Handbook*. Springer.
 8. Salton, G., & McGill, M. J. (1983). *Introduction to Modern Information Retrieval*. McGraw-Hill.
 
----
-
-## 📄 License
-
-This project is for academic purposes. See your institution's guidelines for usage and distribution.
