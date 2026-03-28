@@ -2,7 +2,7 @@
 
 A content-based movie recommendation system built in Python, trained on the TMDB 5000 Movies dataset, and deployed as an interactive web application using Streamlit.
 
-**Author:** Alankrit Sajwan | **Reg. No:** 25BAI10512
+**Submitted By:** Alankrit Sajwan | **Reg. No:** 25BAI10512
 
 ---
 
